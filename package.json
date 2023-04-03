@@ -1,0 +1,23 @@
+{
+  "name": "expressjs-lapiscine",
+  "version": "1.0.0",
+  "description": "Exercice coworking node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarechalOlivier/ExpressJS-LAPISCINE.git"
+  },
+  "author": "OlivierM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarechalOlivier/ExpressJS-LAPISCINE/issues"
+  },
+  "homepage": "https://github.com/MarechalOlivier/ExpressJS-LAPISCINE#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
